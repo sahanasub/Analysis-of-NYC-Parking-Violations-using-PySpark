@@ -11,5 +11,8 @@ In this project, we obtained data from [NYC Open Data](https://opendata.cityofne
 The project was mainly implemented in PySpark and Python on the [Databricks](https://databricks.com/) platform and [Tableau](https://www.tableau.com/) was used for visualization.
 
 ### Insights and Recommendations
+![insights](https://user-images.githubusercontent.com/44115595/72675117-4865b180-3a45-11ea-8b76-edf6598bbd8c.PNG)
 
-
+#### Business Applications
+* Develop mobile applications that help people locate parking spots and alert drivers of locations where the chances of getting ticketed for a particular violation is higher. 
+* Manage curb space better by converting more private parking spaces into new loading zones and reduce the amount of car storage in terms of parking on the street. This would give rise to a smarter way of managing rider share pickups, delivery systems and more space for bikes or scooters.
